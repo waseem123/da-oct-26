@@ -1,0 +1,55 @@
+Case Study 2
+https://1drv.ms/x/c/ea4be70ff1f844cd/IQCBA0uuazs5RIiTEvnXD7MNAaQ5guEbvKHaoNSfN8wsV7o?e=TSRgYL&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
+
+Dataset
+ID	Name	Department	Experience	Salary
+101	Amit	IT	3	45000
+102	Sneha	HR	5	55000
+103	Rahul	IT	1.5	60000
+104	Priya	Finance	4	50000
+105	Neha	HR	2	65000
+106	Aarav	IT	6.5	85000
+107	Ananya	Finance	1	42000
+108	Vikram	Marketing	4.5	58000
+109	Riya	HR	3.5	52000
+110	Rohan	Operations	7	72000
+111	Aditi	IT	2.5	48000
+112	Arjun	Finance	8	95000
+113	Isha	Marketing	0.5	35000
+114	Karan	Operations	5.5	63000
+115	Diya	HR	4	56000
+116	Yash	IT	10	120000
+117	Meera	Finance	3	49000
+118	Kunwar	Marketing	6	78000
+119	Tanvi	HR	1.5	46000
+120	Vivek	Operations	2	50000
+121	Siddharth	IT	4	67000
+122	Kriti	Finance	5	71000
+123	Varun	Marketing	3	53000
+124	Avani	HR	9	105000
+125	Pranav	Operations	4.5	61000
+126	Ridhi	IT	1	44000
+127	Kabir	Finance	6.5	88000
+128	Sai	Marketing	2.5	47000
+129	Anika	HR	7.5	89000
+130	Dev	Operations	3.5	55000
+131	Ishaan	IT	5.5	82000
+132	Aanya	Finance	2	46000
+133	Reyansh	Marketing	8.5	98000
+134	Kiara	HR	0.5	38000
+135	Atharv	Operations	6	70000
+136	Saanvi	IT	4.5	73000
+137	Vivaan	Finance	4	62000
+138	Tara	Marketing	1.5	41000
+139	Arnav	HR	5	68000
+140	Myra	Operations	10	115000
+141	Dhruv	IT	3	54000
+142	Alisha	Finance	7	91000
+143	Shaurya	Marketing	5.5	74000
+144	Pari	HR	2.5	50000
+145	Rudra	Operations	1	43000
+146	Zara	IT	8	108000
+147	Aaryan	Finance	3.5	57000
+148	Anvi	Marketing	4	59000
+149	Krishna	HR	6	81000
+150	Dia	Operations	5	66000
